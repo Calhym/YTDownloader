@@ -1,7 +1,7 @@
 # YTDownloader
-YTDownloader is a GUI program currently built off of PYTube and brezypythongui (Tkinter). The purpose of this program is to quickly install any video from YouTube with all the available quality options. If you don’t already know when downloading from your YouTube dashboard, you don’t get all the quality options and it takes forever to download the files. In my experience the download takes substantially less time using this method.
+YTDownloader is a GUI program currently built off of [PYTube](https://github.com/pytube/pytube) and [breezypythongui](https://lambertk.academic.wlu.edu/breezypythongui/) (Tkinter). The purpose of this program is to quickly install any video from YouTube with all the available quality options. If you don’t already know when downloading from your YouTube dashboard, you don’t get all the quality options and it takes forever to download the files. In my experience the download takes substantially less time using this method.
 
-Right now, there is no option to combined the Video and Audio files that are installed so you will need to do that by yourself either in a video editor, FFMPEG, or with VLC. 
+Right now, there is no option to combined the Video and Audio files that are installed so you will need to do that by yourself either in a video editor, such as [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [FFMPEG](https://ffmpeg.org/), or with [VLC](https://wiki.videolan.org/VLC_HowTo/Play_an_external_audio_track_for_a_video/). 
 
 
 # Installation Instructions / Dependencies 
@@ -13,7 +13,7 @@ YTDownloader requires you to use [Python 3.X](https://www.python.org/).
 1.	Click on the green “Code” dropdown and click “Download ZIP”
 2.	Extract the files where you want to an ease to find location on your computer
 ### Dependency Installation
-The only external library needed is PYTube.
+The only external library needed is [PYTube](https://github.com/pytube/pytube).
 
 After you have Python installed open your native command prompt. On Windows use CMD or PowerShell. 
 
